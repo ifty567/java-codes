@@ -6,12 +6,9 @@ class Student{
 class Section extends Student{
     String sectionname;
 }
-class level extends Section{
-    int levelname;
-}
 
 
-
+wfqdu   qwyxcf  qwiuyxctg   liwuxctg    wioucxytg   wqo8icux yh1gw  ocu8ix hygufqe  wdchy
 
 public class College{
     public static void main(String[] args) {
