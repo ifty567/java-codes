@@ -8,7 +8,8 @@ public class MethodOver {
         return a-b;
     }
     public static void main(String[] args) {
-        System.out.println(sub(60, 30));
-        System.out.println(sub(90.9, 60));
+        // System.out.println(sub(60, 30));
+        // System.out.println(sub(90.9, 60));
+        System.out.println(sub(30, 4));
     }
 }
